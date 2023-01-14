@@ -1,0 +1,31 @@
+
+
+Software Used in this project:>
+     -->Visual Studio 2019(Ver-16.7)
+     -->Microsoft Sql Server Management 2014(12.0.4427.24)
+tools:>
+     -->.Net framework 4.5
+     -->windows forms
+     -->Sql server
+
+Project details:>
+     -->there are 3 types of User.
+     
+     -->Admin User 
+        Use this UserName And Password to login as Admin.
+        UserName:test_admin
+        Password:whoami
+     -->Seller User
+        Use this UserName And Password to login as Seller.
+        UserName:test_seller
+        Password:whoami
+     -->Buyer User
+        Use this UserName And Password to login as Buyer. 
+        UserName:test_buyer
+        Password:whoami
+
+
+
+Support:>
+    -->Email->Zarif3453@gmail.com
+    -->Phone->01936265645
